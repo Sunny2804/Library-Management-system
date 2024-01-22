@@ -8,8 +8,7 @@ A simple command-line library management system implemented in C++.
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
