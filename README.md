@@ -6,9 +6,6 @@ A simple command-line library management system implemented in C++.
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Usage](#usage)
-
 
 ## Introduction
 
@@ -20,14 +17,3 @@ This project is a basic library management system written in C++. It allows user
 - Display student details
 - Simple and intuitive command-line interface
 
-## Prerequisites
-
-- C++ compiler
-- Code editor (optional)
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Sunny2804/Library-Management-system.git
